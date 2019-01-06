@@ -1,0 +1,7 @@
+node_modules
+build/contracts
+app.js
+app2.js
+app3.js
+app4.js
+migrations/
